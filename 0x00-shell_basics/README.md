@@ -1,0 +1,1 @@
+prints pathname of wd
